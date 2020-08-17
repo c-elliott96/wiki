@@ -1,5 +1,5 @@
 # Personal Wiki
 
 ## Contents
-* VSCode 
+* [VSCode](/vscode.md)
 * WIP: Make this readme prettier, add ToC. 
