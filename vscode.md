@@ -3,10 +3,10 @@
 ## Keyboard Shortcuts
   * [More information](https://code.visualstudio.com/docs/getstarted/keybindings)
 
-!!! Todo 
-    [ ]  Mark commonly used shortcuts with **bold** 
+### Todo 
+- [ ]  Mark commonly used shortcuts with **bold** 
 
-    [ ]  Fix issue on lines 164 & 165 w/ escaping backticks. 
+- [ ]  Fix issue on lines 164 & 165 w/ escaping backticks. 
     
 ### General
 | Shortcut | Description   |
@@ -34,11 +34,11 @@
 | `Ctrl + ↑/↓` | Scroll line up/down |
 | `Alt + PgUp/PgDn` | Scroll page up/down |
 | `Ctrl + Shift + [` | Fold (collapse) region |
-| `Ctrl + Shift + ]` | Unfold (uncollapse) region |
-| `Ctrl + K Ctrl + [` | Fold (collapse) all subregions |
-| `Ctrl + k Ctrl + ]` | Unfold (uncollapse) all subregions |
+| `Ctrl + Shift + ]` | Unfold (un-collapse) region |
+| `Ctrl + K Ctrl + [` | Fold (collapse) all sub-regions |
+| `Ctrl + k Ctrl + ]` | Unfold (un-collapse) all sub-regions |
 | `Ctrl + K Ctrl + 0` | Fold (collapse) all regions | 
-| `Ctrl + K Ctrl + J` | Unfold (uncollapse) all regions |
+| `Ctrl + K Ctrl + J` | Unfold (un-collapse) all regions |
 | `Ctrl + K Ctrl + C` | Add line comment |
 | `Ctrl + K Ctrl + U` | Remove line comment |
 | `Ctrl + /` | Toggle line comment |
@@ -65,7 +65,7 @@
 | `Ctrl + F` | Find |
 | `Ctrl + H` | Replace |
 | `F3 / Shift + F3` | Find next/previous |
-| `Alt + Enter` | Select all occurences of find match | 
+| `Alt + Enter` | Select all occurrences of find match | 
 | `Ctrl + D` | Add selection to next find match | 
 | `Ctrl + K Ctrl + D` | Move last selection to next find match |
 | `Alt + C / R / W` | Toggle case-sensitive / regex / whole word | 
@@ -79,7 +79,7 @@
 | `Shift + Alt + I` | Insert cursor at end of each line select |
 | `Ctrl + L` | Select current line | 
 | `Ctrl + Shift + L` | Select all occurrences of current selection | 
-| `Ctrl + F2` | Select all occurences of current word | 
+| `Ctrl + F2` | Select all occurrences of current word | 
 | `Shift + Alt + →` | Expand selection |
 | `Shift + Alt + ←` | Shrink selection | 
 | `Shift + Alt + (drag mouse)` | Column (box) selection | 
@@ -107,7 +107,7 @@
 | `Ctrl + F4, Ctrl + W` | Close editor |
 | `Ctrl + K F` | Close editor |
 | `Ctrl + \` | Split editor |
-| `Ctrl + 1 / 2 / 3` | Focust into 1st, 2nd, or 3rd editor group |
+| `Ctrl + 1 / 2 / 3` | Focus into 1st, 2nd, or 3rd editor group |
 | `Ctrl + K Ctrl + ←/→` | Focus into previous/next editor group |
 | `Ctrl + Shift + PgUp/PgDn` | Move editor left/right |
 | `Ctrl + K ←/→` | Move active editor group |
